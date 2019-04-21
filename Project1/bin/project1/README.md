@@ -1,0 +1,1 @@
+This project is called NYS Baby names. It takes input from a file containing the baby names of different counties in New York and organizes them into an Arraylist. Each name is sorted alphabetically and counts are done to know how many unique names were used in a given county and the entire state.
