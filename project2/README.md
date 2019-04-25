@@ -1,0 +1,1 @@
+This is a fully functional circular doubly linked-list in which the first and last nodes are connected and there are next and previous references. If nodes are added in a particular order by payload(least to greatest, greatest to least, alphabetical), then search effectively has better than  O(N) performance due to having both next and previous references. 
